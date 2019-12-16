@@ -1,4 +1,5 @@
 Pasos para ejecutar la aplicacion (se debe estar en el directorio del proyecto):
+-se debe contar con una base de datos ya creada con el nombre de "empresas" (acorde a lo indicado en el archivo ".env")
 -renombrar el archivo ".env.example" a ".env."
 -editar el archivo ".env." con la siguiente linea:
 DB_DATABASE=empresas
